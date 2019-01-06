@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Clone the repository and move into:
-git clone git@github.com:floriangodin/docavenue.git
+git clone git@github.com:floriangodin/docavenue.git <br>
 cd docavenue
 
 ## Available Scripts
